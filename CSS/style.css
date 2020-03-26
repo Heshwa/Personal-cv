@@ -1,0 +1,143 @@
+.heading2
+{
+    color: #66BFBF;
+    margin-bottom: 5%;
+}
+.container
+{
+    padding-left: 35%;
+    padding-right: 35%;
+}
+.containers
+{
+    margin:0;
+    text-align: center;
+    padding: 5% 25%;
+    color: #000;
+    font-family: 'Merriweather', serif;
+    line-height: 2.5rem;
+    
+}
+.top-container
+{
+    padding-top: 15%;
+    background-color:#EAF6F6;
+
+}
+.heading{
+    font-family: Sacramento;
+    font-weight: bold;
+    color: #66BFBF;
+    font-size: 4.5rem;
+}
+.Text
+{
+    color: #66BFBF;
+    font-weight: 500;
+    font-size: 1.2rem;
+    
+}
+.description
+{
+    padding:0 20%;
+    line-height: 1.5rem;
+}
+.top-cloud
+{
+    position: absolute;
+    right: 30%;
+    top: 15%;
+}
+.bottom-cloud
+{
+    position: absolute;
+    left: 25%;
+}
+.myphoto
+{
+    width: 50%;
+    border-radius: 100%;
+    margin-bottom: 3%;
+}
+.profile
+{
+    
+    margin-bottom: 5%;
+}
+.hori-line
+{
+    border-color: grey;
+    border-top-style: dotted;
+    border-width: 6px 0 0 0;
+    width: 10%;
+}
+.skills
+{
+    padding: 5% 10%;
+}
+.coding-img
+{
+    width:70%
+}
+.webdev-img
+{
+    width:70%
+}
+.code
+{
+    margin: 10%;
+}
+.web
+{
+    text-align: center;
+    margin: auto;
+}
+p{
+    line-height: 1.5rem;
+}
+.contact-me
+{
+    padding: 5% 25%;
+}
+.text4
+{
+    color: #11999E;
+    font-size: 1.3rem;
+}
+.bottom-container
+{
+    background-color: #66BFBF;
+}
+.footer-link
+{
+    margin: 1%;
+}
+@media (max-width:1200px)
+{
+    
+    .top-cloud
+    {
+        right: 25%;
+        top: 2%;
+        
+    }
+    .mountain
+    {
+        width: 70%;
+        padding-top: 10%;
+    }
+    .heading
+    {
+        
+        font-size: 3.5rem;
+    }
+    .Text
+    {
+        font-size: 1rem;
+    }
+    .bottom-cloud
+    {
+        left: 15%;
+    }
+
+}
